@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@estjs/eslint-config"
+  ],
+}
